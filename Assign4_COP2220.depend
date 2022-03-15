@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633064582 source:c:\users\normi\documents\programming\assign4_cop2220\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
